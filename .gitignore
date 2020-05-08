@@ -12,6 +12,7 @@
 model.txt
 model.json
 model.h5
+slice*.xml
 
 # visual code
 .vscode/
